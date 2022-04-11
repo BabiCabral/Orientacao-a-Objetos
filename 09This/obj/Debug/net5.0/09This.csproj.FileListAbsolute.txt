@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\09This.exe
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\09This.deps.json
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\09This.runtimeconfig.json
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\09This.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\09This.dll
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\ref\09This.dll
+C:\workspace\Orientação a objetos\09This\bin\Debug\net5.0\09This.pdb
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.dll
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\ref\09This.dll
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.pdb
+C:\workspace\Orientação a objetos\09This\obj\Debug\net5.0\09This.genruntimeconfig.cache

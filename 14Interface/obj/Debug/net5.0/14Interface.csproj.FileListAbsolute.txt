@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\14Interface.exe
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\14Interface.deps.json
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.json
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\14Interface.dll
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\ref\14Interface.dll
+C:\workspace\Orientação a objetos\14Interface\bin\Debug\net5.0\14Interface.pdb
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.dll
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\ref\14Interface.dll
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.pdb
+C:\workspace\Orientação a objetos\14Interface\obj\Debug\net5.0\14Interface.genruntimeconfig.cache

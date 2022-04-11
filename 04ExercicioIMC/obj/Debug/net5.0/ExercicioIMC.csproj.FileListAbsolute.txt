@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ExercicioIMC.exe
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ExercicioIMC.deps.json
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ExercicioIMC.runtimeconfig.json
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ExercicioIMC.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ExercicioIMC.dll
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ref\ExercicioIMC.dll
+C:\workspace\Orientação a objetos\ExercicioIMC\bin\Debug\net5.0\ExercicioIMC.pdb
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.dll
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ref\ExercicioIMC.dll
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.pdb
+C:\workspace\Orientação a objetos\ExercicioIMC\obj\Debug\net5.0\ExercicioIMC.genruntimeconfig.cache

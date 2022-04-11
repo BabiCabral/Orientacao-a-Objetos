@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\08GeteSet.exe
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\08GeteSet.deps.json
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\08GeteSet.runtimeconfig.json
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\08GeteSet.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\08GeteSet.dll
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\ref\08GeteSet.dll
+C:\workspace\Orientação a objetos\08GeteSet\bin\Debug\net5.0\08GeteSet.pdb
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.dll
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\ref\08GeteSet.dll
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.pdb
+C:\workspace\Orientação a objetos\08GeteSet\obj\Debug\net5.0\08GeteSet.genruntimeconfig.cache

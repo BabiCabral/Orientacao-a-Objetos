@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\conceitos.exe
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\conceitos.deps.json
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\conceitos.runtimeconfig.json
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\conceitos.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\conceitos.dll
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\ref\conceitos.dll
+C:\workspace\Orientação a objetos\conceitos\bin\Debug\net5.0\conceitos.pdb
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.dll
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\ref\conceitos.dll
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.pdb
+C:\workspace\Orientação a objetos\conceitos\obj\Debug\net5.0\conceitos.genruntimeconfig.cache

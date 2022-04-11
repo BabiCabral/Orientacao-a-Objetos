@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ExercíciosPráticos.exe
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ExercíciosPráticos.deps.json
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ExercíciosPráticos.runtimeconfig.json
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ExercíciosPráticos.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ExercíciosPráticos.dll
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ref\ExercíciosPráticos.dll
+C:\workspace\Orientação a objetos\ExercíciosPráticos\bin\Debug\net5.0\ExercíciosPráticos.pdb
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.dll
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ref\ExercíciosPráticos.dll
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.pdb
+C:\workspace\Orientação a objetos\ExercíciosPráticos\obj\Debug\net5.0\ExercíciosPráticos.genruntimeconfig.cache

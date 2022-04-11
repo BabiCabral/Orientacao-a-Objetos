@@ -1,0 +1,16 @@
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.exe
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.deps.json
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.json
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.dev.json
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.dll
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\ref\06Encapsulamento.dll
+C:\workspace\Orientação a objetos\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.pdb
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.AssemblyReference.cache
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfo.cs
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.dll
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\ref\06Encapsulamento.dll
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.pdb
+C:\workspace\Orientação a objetos\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.genruntimeconfig.cache
